@@ -1,0 +1,9 @@
+{
+  "name": "serverless-express-handler-workbox",
+  "version": "1.20190714.1",
+  "description": "(Not implemented) An express handler interface for workbox",
+  "main": "index.js",
+  "repository": "https://github.com/poifuture/serverless-express-handler-workbox.git",
+  "author": "Konata <konata@poifure.com>",
+  "license": "MIT"
+}
